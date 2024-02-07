@@ -281,4 +281,4 @@ This is just an exploratory data analysis. I was wondering if there is a relatio
 
 ```
 
-Remember to Render this lab as a pdf before you push it to github.  
+Remember to Render this lab before you push it to github.  
