@@ -148,7 +148,7 @@ Sometimes, the narrative a plot conveys can be misleading until we starting laye
 
 # Visulization Asthetics
 
-As we discussed in Lec 5, there are three types of color palettes that can be added to a plot:
+As we discussed, there are three types of color palettes that can be added to a plot:
 
 * Sequential: A uni-directional ordering of shades.
 * Diverging: A bi-directional ordering of shades.
@@ -280,7 +280,3 @@ This is just an exploratory data analysis. I was wondering if there is a relatio
 # Paste the code below and adjust it
 
 ```
-
-## Exercise 11: Weekly Reflections
-
-Fill out this week's reflections Google form to receive credit.
